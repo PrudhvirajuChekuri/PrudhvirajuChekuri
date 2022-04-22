@@ -7,3 +7,5 @@
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/prudhviraju-chekuri/)
 
 ![image](https://github-readme-stats.vercel.app/api?username=PrudhvirajuChekuri&&show_icons=true&title_color=c792ea&icon_color=ffeb95&text_color=7fdbca&bg_color=011627)
+
+![TOP LANGS](https://github-readme-stats.vercel.app/api/top-langs/?username=PrudhvirajuChekuri)
