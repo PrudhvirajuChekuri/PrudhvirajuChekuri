@@ -6,5 +6,3 @@
 - 💬 Ask me about Machine Learning, Deep Learning, Python, TensorFlow, etc.
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/prudhviraju-chekuri/)
 - 🧑🏻‍💻Coding Profile: [Leetcode](https://leetcode.com/u/Blazing_Unicorn/)
-
-![TOP LANGS](https://github-readme-stats.vercel.app/api/top-langs/?username=PrudhvirajuChekuri)
