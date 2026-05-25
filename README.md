@@ -1,8 +1,9 @@
 ### Hi, I'm Prudhvi 👋
 
-- 🌱 I’m pursuing my Master's in Data Science at The George Washington University.
-- 👯 I’m looking to collaborate on Real-World projects that can make people's lives easier.
-- 👀 I'm interested in AI/ML, Data Science, and Software Engineering.
-- 💬 Ask me about Machine Learning, Deep Learning, Python, TensorFlow, etc.
-- 📫 How to reach me: [linkedin](https://www.linkedin.com/in/prudhviraju-chekuri/)
-- 🧑🏻‍💻Coding Profile: [Leetcode](https://leetcode.com/u/Blazing_Unicorn/)
+- 🎓 MS in Data Science, The George Washington University (Dec 2025)
+- 🔭 Currently building cross-lingual legal retrieval and production RAG systems
+- 🌱 Interested in LLMs, RAG, retrieval systems, and applied AI across complex domains
+- 👯 Open to collaborating on real-world AI/ML projects
+- 💬 Ask me about LLMs, RAG, hybrid retrieval, prompt engineering, Python
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/prudhviraju-chekuri/) | prudhviraju.connect@gmail.com
+- 🧑🏻‍💻 Coding Profile: [Leetcode](https://leetcode.com/u/Blazing_Unicorn/)
