@@ -27,10 +27,12 @@
 
 ## 🔍 What I'm Working On
 
-Recently, I built a cross-lingual Swiss legal information retrieval system over a **2.65M+ document corpus** using cascading metadata filtering, FAISS, Cohere, and AWS Bedrock — matching English legal questions to relevant statutes and court decisions across German, French, and Italian.
+Recently shipped [**Kuberacle**](https://kuberacle.dev), a production Kubernetes documentation assistant with hybrid retrieval, reranking, citation validation, and abstention behavior, deployed on GCP Cloud Run with a curated evaluation pipeline.
+
+Earlier, I built a cross-lingual Swiss legal information retrieval system over a **2.7M+ document corpus** using cascading metadata filtering, FAISS, Cohere, and AWS Bedrock, matching English legal questions to relevant statutes and court decisions across German, French, and Italian.
 [**→ View the project**](https://github.com/PrudhvirajuChekuri/swiss-legal-information-retrieval)
 
-Currently building more advanced production-style RAG pipelines over technical documentation, healthcare databases, and complex enterprise knowledge sources.
+Currently exploring agentic AI systems: multi-agent orchestration, tool calling, and knowledge graph-grounded retrieval.
 
 ---
 
@@ -45,6 +47,16 @@ Currently building more advanced production-style RAG pipelines over technical d
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
+**Retrieval & RAG**
+
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F61?style=flat-square)
+![Cohere](https://img.shields.io/badge/Cohere-39594D?style=flat-square)
+![BM25](https://img.shields.io/badge/BM25-475569?style=flat-square)
+![RAGAS](https://img.shields.io/badge/RAGAS-2563EB?style=flat-square)
+![GraphRAG](https://img.shields.io/badge/GraphRAG-16A34A?style=flat-square)
+
 **LLMs & GenAI**
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-111827?style=flat-square&logo=openai&logoColor=white)
@@ -55,16 +67,9 @@ Currently building more advanced production-style RAG pipelines over technical d
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FDEE21?style=flat-square&logo=huggingface&logoColor=black)
 ![vLLM](https://img.shields.io/badge/vLLM-0F172A?style=flat-square)
 ![Unsloth](https://img.shields.io/badge/Unsloth-7C3AED?style=flat-square)
-
-**Retrieval & RAG**
-
-![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F61?style=flat-square)
-![Cohere](https://img.shields.io/badge/Cohere-39594D?style=flat-square)
-![BM25](https://img.shields.io/badge/BM25-475569?style=flat-square)
-![RAGAS](https://img.shields.io/badge/RAGAS-2563EB?style=flat-square)
-![GraphRAG](https://img.shields.io/badge/GraphRAG-16A34A?style=flat-square)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![Vertex AI](https://img.shields.io/badge/Vertex%20AI-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![OpenAI Agents SDK](https://img.shields.io/badge/OpenAI%20Agents%20SDK-111827?style=flat-square&logo=openai&logoColor=white)
 
 **ML, Cloud & Engineering**
 
@@ -78,16 +83,18 @@ Currently building more advanced production-style RAG pipelines over technical d
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 
 ---
 
 ## 🏆 Achievements
 
-| 🥈 Kaggle Silver Medal | 🏅 GW Individual Contributor Award | 🏅 GW Best Project Award |
-|:---:|:---:|:---:|
-| Tabular survival prediction with demographic bias mitigation | GW Student Open-Source Awards 2025 | GW Student Open-Source Awards 2025 |
+| 🏅 GW Individual Contributor Award | 🏅 GW Best Project Award |
+|:---:|:---:|
+| GW Student Open-Source Awards 2025 (LAiSER) | GW Student Open-Source Awards 2025 (LAiSER) |
 
-| 🏎️ AWS DeepRacer India Winner 2022 | 🌍 4th Globally — AWS DeepRacer Championship 2023 |
+| 🏎️ AWS DeepRacer India Winner 2022 | 🌍 4th Globally: AWS DeepRacer Championship 2023 |
 |:---:|:---:|
 | Outperformed 4,000+ participants | AWS DeepRacer Global Student Championship |
 
